@@ -1,4 +1,4 @@
-# irs990_lookup
+# IRS 990 Lookup
 
 A function that takes a csv file of EINs and returns details from IRS 990 filings.
 
